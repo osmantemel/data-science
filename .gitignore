@@ -1,0 +1,5 @@
+# gizle
+app.py 
+dizi/* 
+# gizlilik aç
+!dizi/app.py
