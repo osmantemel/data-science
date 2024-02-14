@@ -1,2 +1,3 @@
 > Numpy Pandas Matplotlib ve Tensorflow 
-ile bilinmesi gereken şeylerin uygulamaları 
+
+ile ilgili bilinmesi gereken şeylerin uygulamaları 
