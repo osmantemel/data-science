@@ -3,3 +3,4 @@ app.py
 dizi/* 
 # gizlilik aç
 !dizi/app.py
+Matplotlib/figure.png
